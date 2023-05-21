@@ -1,2 +1,7 @@
 my name is anshuman dhami 
 this is i am learning git hub 
+<<<<<<< HEAD
+=======
+i have commited changes in git 
+love you all
+>>>>>>> 07b9183486bdb5df011f1ab2db4b2f9bfa9309d5
