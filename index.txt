@@ -2,4 +2,4 @@ my name is anshuman dhami
 this is me learning git hub 
 i have commited changes in git 
 love you all
-
+change to grid 
